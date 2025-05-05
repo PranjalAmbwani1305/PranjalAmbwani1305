@@ -1,77 +1,88 @@
-## Hi there 👋
-# 👋 Hi, I'm Pranjal Ambwani
+<h1 align="center">Hi there, I'm Pranjal Ambwani 👋</h1>
 
-📍 Gandhinagar, Gujarat, India  
-📧 pramb2003@gmail.com  
-📱 +91 74360 77888  
-🔗 [LinkedIn](https://linkedin.com/in/pranjal-ambwani-644066230)
+<p align="center">
+  🚀 AI/ML Enthusiast | Deep Learning Explorer | Data-Driven Developer  
+</p>
 
----
-
-## 🚀 About Me
-
-I'm an **aspiring AI Engineer** passionate about solving real-world problems using Machine Learning, Deep Learning, and NLP. I specialize in **end-to-end AI/ML model development** — from data wrangling to deployment.
-
-With hands-on experience building predictive models and real-time AI applications, I bring strong analytical thinking and a drive for innovation to every project. I’m currently pursuing my **Bachelor of Engineering in Computer Engineering** at LDRP Institute of Technology and Research, graduating in **2025**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 Introduction
+
+Welcome to my GitHub! I'm **Pranjal Ambwani**, a Computer Engineering student passionate about building intelligent systems that make an impact. My goal is to turn raw data into smart solutions using **Machine Learning**, **Deep Learning**, and **AI-powered applications**.
+
+I'm a firm believer in continuous learning, teamwork, and using technology to solve real-world problems — from automating repetitive tasks to enhancing decision-making systems.
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **B.E. in Computer Engineering**  
+📅 **Graduating in 2025** from LDRP Institute of Technology and Research  
+💡 Strong in **AI, ML, NLP, and deployment** of real-world applications  
+🔭 Always exploring new datasets, models, and frameworks  
+🌐 Currently building a **Driver Drowsiness Detection System** with real-time camera input  
+📌 I love experimenting with chatbots, web scraping, and anything that blends code + intelligence
+
+---
+
+## 🛠️ Skills & Tools
 
 - **Languages:** Python, C  
-- **Frameworks & Libraries:** scikit-learn, OpenCV, NLTK, BeautifulSoup, Seaborn, Matplotlib  
-- **Concepts:** Machine Learning, Deep Learning, NLP, Computer Vision  
-- **Tools & Platforms:** Power BI, Jupyter, VS Code, Git, Microsoft Azure  
-- **Data Analysis & Visualization:** Pandas, NumPy, Power BI  
-- **Deployment:** Streamlit, Flask, REST APIs  
+- **Libraries & Frameworks:** scikit-learn, OpenCV, NLTK, Matplotlib, BeautifulSoup, Seaborn  
+- **Concepts:** Supervised Learning, Regression, Classification, NLP, Computer Vision  
+- **Visualization:** Pandas, NumPy, Power BI  
+- **Tools & Platforms:** Jupyter, VS Code, Git, Microsoft Azure  
+- **Deployment:** Streamlit, Flask, REST APIs
 
 ---
 
-## 📚 Certifications
+## 📜 Certifications
 
-- ✅ Microsoft Certified: Azure AI Fundamentals  
-- ✅ Cisco Networking Academy: Python Essentials 1  
-- ✅ IBM SkillsBuild: AI Fundamentals  
-- ✅ Accenture: AI Digital Learning  
-- ✅ NPTEL: Python for Data Science  
+- 🟦 Microsoft Certified: Azure AI Fundamentals  
+- 🐍 Python Essentials 1 – Cisco Networking Academy  
+- 🧠 AI Fundamentals – IBM SkillsBuild  
+- 🤖 AI Digital Learning – Accenture  
+- 📘 Python for Data Science – NPTEL
 
 ---
 
-## 🧠 Projects
+## 🧪 Notable Projects
 
-### 🔍 Driver Drowsiness Detection System
-Real-time fatigue detection using OpenCV and deep learning. Integrated eye aspect ratio and head tilt analysis to trigger fatigue alerts.
+### 🎯 Driver Drowsiness Detection System
+> Real-time eye and head movement analysis to detect fatigue using OpenCV + Deep Learning.
 
-### 💬 CollegeBot – NLP-Based Chatbot
-Built with Python, NLTK, and scikit-learn to automate FAQs for students and streamline access to academic/admin information.
+### 🤖 CollegeBot – NLP Chatbot
+> A smart student-assistance chatbot built using NLTK and machine learning for FAQs.
 
-### 🏠 House Price Prediction Model
-A regression-based ML model that forecasts property prices with feature tuning and optimized accuracy.
+### 🏠 House Price Prediction
+> ML regression model with feature tuning to predict property prices with high accuracy.
 
-### 🗞️ Gujarat Newspaper AI Article Scraper
-Custom web scraper using BeautifulSoup to extract and analyze regional AI-related news with keyword analysis in pandas.
+### 🗞️ AI News Scraper
+> A Python-based tool for scraping AI news from Gujarati newspapers using BeautifulSoup.
 
 ---
 
 ## 💼 Experience
 
 **AI/ML Trainee**  
-_BeyonData Solutions Private Limited | Dec 2024 – Apr 2025_  
-- Built and deployed ML models for classification and regression tasks.  
-- Managed data preprocessing, feature engineering, and model evaluation.  
-- Delivered predictive insights for client-driven business problems.
+*BeyonData Solutions Pvt. Ltd.*  
+🗓️ Dec 2024 – Apr 2025  
+- Developed ML models for client-specific business problems  
+- Performed feature engineering and cross-validation  
+- Delivered data insights through real-world projects
 
 ---
 
-## 📄 Research & Publication
+## 📝 Research Work
 
-**“A Study of Wind Energy Generation in India: Tertiary”**  
+📚 **"A Study of Wind Energy Generation in India: Tertiary"**  
 Published in *International Journal Research*  
-- Quantitative analysis of India’s wind energy sector, capacity, and deployment challenges.
+- A comprehensive study on renewable energy potential, trends, and challenges in India
 
 ---
 
-## 🌐 Languages
+## 🌐 Languages I Speak
 
 - English (Fluent)  
 - Hindi (Fluent)  
@@ -80,10 +91,17 @@ Published in *International Journal Research*
 
 ---
 
-## 🎯 Let's Connect
+## 🤝 Let's Connect
 
-I'm always excited to collaborate on impactful AI/ML projects or research. Feel free to reach out!
+<p align="center">
+  <a href="mailto:pramb2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/pranjal-ambwani-644066230">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-📫 [pramb2003@gmail.com](mailto:pramb2003@gmail.com)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/pranjal-ambwani-644066230)
+---
 
+⭐ _“Learning never exhausts the mind — it fuels it. Let's build something amazing with AI.”_
