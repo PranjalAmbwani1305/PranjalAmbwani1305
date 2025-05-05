@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 AI/ML Developer | 🤖 Final Year Computer Engineering Student | 🧠 Building Intelligent Systems for a Smarter Future
+  💻 AI/ML Developer  | 🧠 Building Intelligent Systems for a Smarter Future
 </p>
 
 ---
