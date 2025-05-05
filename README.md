@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pranjal Ambwani</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer&center=true&width=800&height=45&color=00bfff&vCenter=true&size=24" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00bfff&center=true&vCenter=true&width=435&lines=AI+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,117 +10,108 @@
 
 ---
 
-## 🧭 Who Am I?
+## 🧭 Introduction
 
-Hey there! I'm **Pranjal Ambwani**, a final-year Computer Engineering student from **LDRP Institute of Technology and Research**, Gandhinagar. I'm passionate about designing and developing **AI-powered systems**, especially in the areas of **Computer Vision**, **Natural Language Processing (NLP)**, and **Smart Automation**.
+Welcome to my GitHub! I'm **Pranjal Ambwani**, a Computer Engineering student passionate about building intelligent systems that make an impact.  
+My goal is to turn raw data into smart solutions using **Machine Learning**, **Deep Learning**, and **AI-powered applications**.  
 
-My core goal is to build intelligent software that makes life easier, safer, and more connected. From automating decisions to assisting humans with intelligent agents, I'm always exploring what AI can do!
-
----
-
-## 📌 Quick Facts
-
-- 🎓 **B.E. in Computer Engineering** (2021–2025)
-- 💡 AI/ML, Deep Learning, NLP, Computer Vision
-- 🌐 Full-stack enthusiast with a flair for data & intelligence
-- 🔭 Currently building: **Driver Drowsiness Detection System**
-- ⚡ Tech Stack: `Python`, `OpenCV`, `NLTK`, `Flask`, `Streamlit`, `scikit-learn`, `NumPy`, `Pandas`
+🚀 I love solving real-world problems using code and creativity.
 
 ---
 
-## 🛠️ Technical Toolbox
+## 👨‍💻 About Me
 
-### 🧠 **Languages**
-`Python`, `C`, `HTML`, `CSS`
-
-### 📚 **Libraries & Frameworks**
-`scikit-learn`, `OpenCV`, `NLTK`, `Matplotlib`, `Seaborn`, `BeautifulSoup`, `MediaPipe`, `PyTorch (Basics)`
-
-### 🧰 **Tools & Platforms**
-`Jupyter Notebook`, `Google Colab`, `VS Code`, `Git`, `GitHub`, `Microsoft Azure`, `Streamlit`, `Flask`
-
-### 🚀 **Concepts & Skills**
-- Machine Learning (Classification, Regression, Clustering)
-- Deep Learning (CNNs, DNNs)
-- Natural Language Processing (Text Classification, Tokenization)
-- Computer Vision (Face Detection, Eye Tracking)
-- Data Preprocessing, Feature Engineering, Model Deployment
-- REST APIs, Real-time AI Systems
+🎓 **B.E. in Computer Engineering**  
+📅 **Graduating in 2025** from LDRP Institute of Technology and Research  
+💡 Strong in **AI, ML, NLP**, and real-world application **deployment**  
+🔍 Always exploring new datasets, models, and frameworks  
+📸 Building a **Driver Drowsiness Detection System** using Deep Learning  
+🛠️ Love combining **vision**, **language**, and **intelligence**
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Skills & Tools
 
-### 👨‍💻 AI/ML Trainee – *BeyonData Solutions Pvt. Ltd.*  
-📅 Dec 2024 – Apr 2025  
-📍 Gandhinagar, Gujarat  
-- Developed ML models for real-world client applications  
-- Implemented cross-validation and feature selection pipelines  
-- Extracted insights using data visualization and EDA techniques  
-- Collaborated in Agile teams and participated in weekly sprint reviews
-
----
-
-## 🧪 Academic Research
-
-📘 **Title:** *"A Study of Wind Energy Generation in India: Tertiary"*  
-📰 Published in *International Journal Research*  
-- Covered policy challenges, potential, and tech analysis in India  
-- Promoted sustainable practices using data and visualizations  
-
----
-
-## 🚀 Projects Portfolio
-
-### 🎯 Driver Drowsiness Detection System  
-💡 Real-time alert system using OpenCV + Deep Learning  
-🎥 Webcam-based detection of closed eyes and head nodding  
-✅ Built with: `MediaPipe`, `OpenCV`, `Streamlit`, `NumPy`, `Deep Learning Models`
-
-### 🤖 CollegeBot – NLP Chatbot  
-💬 Smart chatbot trained to assist students with FAQs  
-🧠 Built using `NLTK`, `Intent Classification`, `Text Preprocessing`, and `TF-IDF`
-
-### 🏠 House Price Prediction  
-📊 Regression ML model predicting housing prices using multiple features  
-🚧 Feature engineering and hyperparameter tuning  
-📌 Tools: `scikit-learn`, `Pandas`, `Seaborn`, `Matplotlib`
-
-### 🗞️ AI News Scraper  
-📰 Extracts AI-related news from Gujarati newspapers  
-🛠️ Tools: `BeautifulSoup`, `Requests`, `Regex`, `CSV Writing`
+- 🐍 **Languages:** Python, C  
+- 📚 **Libraries & Frameworks:** scikit-learn, OpenCV, NLTK, BeautifulSoup, Matplotlib, Seaborn  
+- 🤖 **Concepts:** Regression, Classification, NLP, Computer Vision, Supervised Learning  
+- 📊 **Visualization:** Pandas, NumPy, Power BI  
+- ⚙️ **Tools & Platforms:** Jupyter, VS Code, Git, Microsoft Azure  
+- 🚀 **Deployment:** Streamlit, Flask, REST APIs
 
 ---
 
 ## 📜 Certifications
 
-- 🟦 Microsoft Certified: **Azure AI Fundamentals**  
-- 🐍 Cisco Networking Academy: **Python Essentials 1**  
-- 🧠 IBM SkillsBuild: **AI Fundamentals**  
-- 🤖 Accenture: **AI Digital Learning Program**  
-- 📘 NPTEL: **Python for Data Science**
+- 🟦 Microsoft Certified: Azure AI Fundamentals  
+- 🐍 Python Essentials 1 – Cisco Networking Academy  
+- 🧠 AI Fundamentals – IBM SkillsBuild  
+- 🤖 AI Digital Learning – Accenture  
+- 📘 Python for Data Science – NPTEL
 
 ---
 
-## 🌍 Languages I Speak
+## 🧪 Notable Projects
 
-- English (Fluent)  
-- Hindi (Fluent)  
-- Gujarati (Native)  
-- Sindhi (Conversational)
+### 🎯 Driver Drowsiness Detection System  
+> Real-time eye and head movement analysis to detect fatigue using OpenCV + Deep Learning.
+
+### 🤖 CollegeBot – NLP Chatbot  
+> A smart assistant chatbot built using NLTK and machine learning for student FAQs.
+
+### 🏠 House Price Prediction  
+> ML regression model with feature tuning to predict property prices with high accuracy.
+
+### 🗞️ AI News Scraper  
+> Python tool that scrapes Gujarati AI news using BeautifulSoup.
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Experience
+
+**👨‍💼 AI/ML Trainee**  
+*BeyonData Solutions Pvt. Ltd.*  
+🗓️ Dec 2024 – Apr 2025  
+- ✅ Built ML models for client-specific business problems  
+- ⚙️ Performed feature engineering and cross-validation  
+- 📊 Delivered insights through real-world analytics
+
+---
+
+## 📝 Research Work
+
+📚 **"A Study of Wind Energy Generation in India: Tertiary"**  
+Published in *International Journal Research*  
+- 💡 Study on renewable energy potential, trends & challenges in India
+
+---
+
+## 🌐 Languages I Speak
+
+🗣️ English (Fluent)  
+🗣️ Hindi (Fluent)  
+🗣️ Gujarati (Native)  
+🗣️ Sindhi (Conversational)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjal-ambwani&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal-ambwani&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalAmbwani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranjal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalAmbwani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranjalAmbwani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:pramb2003@gmail.com">
@@ -132,8 +124,4 @@ My core goal is to build intelligent software that makes life easier, safer, and
 
 ---
 
-<h3 align="center">⭐ “Learning never exhausts the mind — it fuels it. Let’s build a smarter world with AI.”</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranjal-ambwani&theme=dracula&margin-w=15&no-frame=true" />
-</p>
+⭐ _“Learning never exhausts the mind — it fuels it. Let's build something amazing with AI.”_
