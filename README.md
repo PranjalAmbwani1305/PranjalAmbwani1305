@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Pranjal Ambwani</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20in%20the%20Making;Deep%20Learning%20Explorer;Data-Driven%20Developer;AI/ML%20Project%20Builder;Real-time%20Vision%20Systems%20Developer;AI%20Chatbot%20Creator;Open%20Source%20AI%20Contributor;Lifelong%20AI%20Learner&center=true&width=800&height=45&color=00bfff&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer&center=true&width=800&height=45&color=00bfff&vCenter=true&size=24" />
 </p>
 
 <p align="center">
