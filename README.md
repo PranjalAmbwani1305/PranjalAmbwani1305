@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  💻 AI/ML Developer  | 🧠 Building Intelligent Systems for a Smarter Future
+  💻 AI/ML Developer  | 🧠 Building Intelligent Systems for a Smarter Future | NMIMS M.TECH AI 
 </p>
 
 ---
@@ -20,6 +20,12 @@ I enjoy taking on challenges and finding creative ways to solve them with the po
 ---
 
 ## 👨‍💻 Education & Background
+
+🎓 **M.Tech in Artificial Intelligence**
+📍 Currently pursuing at **NMIMS, Mumbai**
+🧠 Building deep expertise in AI, Machine Learning, and Natural Language Processing
+🛠️ Focused on the development and deployment of real-world AI solutions
+🔍 Passionate about bridging the gap between research and practical problem-solving through intelligent systems
 
 🎓 **B.E. in Computer Engineering**  
 📅 **Graduating in 2025** from LDRP Institute of Technology and Research, Gandhinagar, India  
@@ -50,6 +56,9 @@ I enjoy taking on challenges and finding creative ways to solve them with the po
 ---
 
 ## 🧪 Notable Projects
+
+### 📈 **Salary Prediction Forecast System**
+A machine learning-based regression model that predicts employee salaries based on factors like experience, education, and job role. Designed to aid in data-driven compensation planning and HR analytics. Built using **pandas**, **scikit-learn**, and **regression algorithms**.
 
 ### 🎯 **Driver Drowsiness Detection System**  
 A **real-time fatigue detection** system leveraging computer vision and deep learning to track eye and head movements, ensuring **driver safety**. Built using **OpenCV** and **deep learning models**.
