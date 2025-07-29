@@ -22,12 +22,14 @@ I enjoy taking on challenges and finding creative ways to solve them with the po
 ## 👨‍💻 Education & Background
 
 🎓 **M.Tech in Artificial Intelligence**
+
 📍 Currently pursuing at **NMIMS, Mumbai**
 🧠 Building deep expertise in AI, Machine Learning, and Natural Language Processing
 🛠️ Focused on the development and deployment of real-world AI solutions
 🔍 Passionate about bridging the gap between research and practical problem-solving through intelligent systems
 
 🎓 **B.E. in Computer Engineering**  
+
 📅 **Graduating in 2025** from LDRP Institute of Technology and Research, Gandhinagar, India  
 💡 Expertise in **AI, Machine Learning, NLP**, and **deployment of real-world applications**  
 🔍 Focused on building applications that bridge the gap between data science and real-world problem-solving
