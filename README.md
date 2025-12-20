@@ -1,124 +1,89 @@
-<h1 align="center">Hi, I'm Pranjal Ambwani 👋</h1>
-<h3 align="center">AI Engineer | GenAI & NLP | RAG Systems | M.Tech AI @ NMIMS</h3>
+<h1 align="center">Hi 👋, I'm Pranjal Mukesh Ambwani</h1>
+<h3 align="center">AI Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/PranjalAmbwani1305">GitHub</a> •
-  <a href="https://www.linkedin.com/in/pranjal-ambwani-644066230">LinkedIn</a> •
-  <a href="mailto:pramb2003@gmail.com">Email</a>
+  <a href="https://pranjalambwani.com"><img src="https://img.shields.io/badge/Website-pranjalambwani.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/PranjalAmbwani1305"><img src="https://img.shields.io/badge/GitHub-PranjalAmbwani1305-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:pramb2003@gmail.com"><img src="https://img.shields.io/badge/Email-pramb2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pranjal-ambwani-644066230"><img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Ambwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m an **AI Engineer** specializing in **Generative AI, NLP, and Retrieval-Augmented Generation (RAG)**.  
-Currently pursuing **M.Tech in Artificial Intelligence at NMIMS**, with hands-on experience building **LLM-powered applications** during internships at **EY** and **BeyonData Solutions**.
-
-I enjoy transforming **real-world problems into production-ready AI systems** — from document intelligence and threat analysis to forecasting and automation.
-
----
-
-## 🧠 Core Expertise
-
-- **Generative AI & LLMs** – RAG pipelines, embeddings, prompt engineering  
-- **Natural Language Processing** – text extraction, classification, summarization  
-- **Machine Learning** – end-to-end pipelines, evaluation & optimization  
-- **Applied AI Systems** – dashboards, automation tools, real-world datasets  
+- 🎯 Skilled and results-oriented AI Developer adept at engineering cutting-edge Generative AI algorithms and RAG architectures.
+- 🚀 Dynamic professional focused on transforming complex data into actionable insights and deploying scalable LLM solutions.
+- 🧠 Proven ability to collaborate with cross-functional teams to drive strategic decision-making and achieve organizational objectives.
+- 🎓 Master of Technology (M.Tech) in Artificial Intelligence, NMIMS – Mukesh Patel School of Technology • Mumbai, Maharashtra • 2027
+- 🎓 Bachelor of Engineering in Computer Engineering, LDRP Institute of Technology and Research • Gandhinagar, Gujarat • 2025
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Skills & Technologies
 
-**Languages**  
-- Python
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**GenAI & NLP**  
-- Hugging Face Transformers  
-- LangChain  
-- RAG Architectures  
-- Vector Embeddings (Pinecone)
+### ⚙️ Frameworks & Tools
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6F61?style=flat-square&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF495E?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**ML & Data**  
-- Scikit-learn, NumPy, Pandas  
-- SecureBERT (NER), Classical ML
-
-**Deployment & Tools**  
-- Streamlit, FastAPI, Flask  
-- Docker  
-- Git & GitHub  
-- MongoDB, PostgreSQL  
+### 🗃️ Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 📱 Projects
 
-### 🔐 AI Cyber Threat Intelligence Analysis
-- Automated extraction of **IoCs, malware, and threat actors** from unstructured PDF reports  
-- Used **SecureBERT-NER** and built relationship graphs for analyst insights  
-- Improved entity extraction accuracy through advanced preprocessing  
-
-**Tech:** Python, NLP, SecureBERT, Knowledge Graphs  
-
----
-
-### 📰 Gujarati Newspaper AI Web Scraper
-- Built a **scalable scraping + OCR pipeline** for regional newspapers  
-- Processed **500+ articles** into structured datasets for NLP analysis  
-- Enabled trend tracking and keyword analytics  
-
-**Tech:** Python, BeautifulSoup, OCR, NLP  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **SmartWorkAI** | Engineered an intelligent task management system using Large Language Models (LLMs) and Pinecone vector database for intent extraction and retrieval-augmented planning. | Python, Hugging Face Transformers, Streamlit, Pinecone |
+| **Cyber Threat Intelligence (CTI)** | Developed an automated threat analysis pipeline using SecureBERT-NER to extract critical entities (IoCs, Malware, Threat Actors) from unstructured PDF reports. | Python, SecureBERT, igraph |
+| **Gujarat Newspaper AI Article Scraper** | Architected an automated web scraping pipeline using BeautifulSoup and OCR to process over 500+ articles, structuring unstructured text into clean datasets. | Python, BeautifulSoup, OCR |
+| **Driver Drowsiness Detection System** | Designed a real-time safety monitoring system using OpenCV and facial landmark analysis to calculate Eye Aspect Ratio (EAR) for fatigue detection. | Python, OpenCV |
 
 ---
 
-### 📊 Predictive Analytics for Sales Forecasting
-- Developed a **sales forecasting pipeline** with data preprocessing & EDA  
-- Built an interactive dashboard to support **data-driven decision making**  
+## 🏆 Awards & Achievements
 
-**Tech:** Python, ML, Data Analysis, Visualization  
-
----
-
-### 🧪 Evaluation Task Framework
-- Designed a reusable **evaluation workflow** for ML/AI experiments  
-- Focused on reproducibility, metrics, and model comparison  
-
-**Tech:** Python  
+- OCI Foundation
+- GenAI
+- AI/ML
+- Data Science & Vector AI Specialization, Oracle
+- Azure AI Fundamentals, Microsoft
+- Python for Data Science, NPTEL
+- AI Fundamentals, IBM Skills Build
+- Python Essentials, Cisco Networking Academy
 
 ---
 
-## 🎓 Education
+## 📚 Certifications
 
-- **M.Tech in Artificial Intelligence** – NMIMS, Mumbai (2025–2027)  
-- **B.E. in Computer Engineering** – LDRP Institute of Technology, Gujarat (2021–2025)
-
----
-
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure – AI Foundations  
-- Azure AI Fundamentals  
-- GenAI, Data Science & Vector AI – Oracle  
-- Python for Data Science – NPTEL  
-- Python Essentials – Cisco  
+- OCI Foundation
+- GenAI
+- AI/ML
+- Data Science & Vector AI Specialization, Oracle
+- Azure AI Fundamentals, Microsoft
+- Python for Data Science, NPTEL
+- AI Fundamentals, IBM Skills Build
+- Python Essentials, Cisco Networking Academy
 
 ---
 
-## 📈 GitHub Activity
+## 📫 Contact
 
-- Active contributor with consistent commits  
-- Focused on **applied AI projects**, not tutorials  
-- Repositories reflect **real-world problem solving**
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: **pramb2003@gmail.com**  
-- 💼 LinkedIn: **linkedin.com/in/pranjal-ambwani-644066230**  
-- 🧑‍💻 GitHub: **github.com/PranjalAmbwani1305**
+- 💼 LinkedIn: [Pranjal Ambwani](https://www.linkedin.com/in/pranjal-ambwani-644066230)
+- 🌍 Website: [pranjalambwani.com](https://pranjalambwani.com)
+- 📧 Email: [pramb2003@gmail.com](mailto:pramb2003@gmail.com)
+- 📞 Phone: +917436077888
 
 ---
 
 <p align="center">
-  <em>“Building AI systems that work in the real world.”</em>
+  <em>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</em>
 </p>
