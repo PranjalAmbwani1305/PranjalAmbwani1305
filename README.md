@@ -18,8 +18,9 @@ I am an AI Developer specializing in Generative AI, Large Language Models, and N
 
 ## 💼 Experience
 
-### AI / Data Analytics Intern  
-**Ernst & Young (EY)** • Remote  
+### Summer Intern as Digital Transformation in HR
+**Ernst & Young (EY)** 
+• Remote  
 *May 2025 – Aug 2025*
 
 - Contributed to **Digital Transformation initiatives** within Technology Consulting by developing applied AI and analytics solutions.
@@ -28,12 +29,12 @@ I am an AI Developer specializing in Generative AI, Large Language Models, and N
 - Built an **interactive sales prediction dashboard** to visualize trends, patterns, and predictive insights for stakeholders.
 - Supported model evaluation, optimization, and validation workflows for enterprise analytics use cases.
 - Collaborated with cross-functional teams to translate business requirements into analytical outputs and AI-enabled dashboards.
-- *(GitHub repository for the sales prediction project will be added)*
 
 ---
 
 ### AI / ML Trainee  
-**BeyonData Solutions Pvt. Ltd.** • Ahmedabad, Gujarat  
+**BeyonData Solutions Pvt. Ltd.** 
+• Ahmedabad, Gujarat  
 *Dec 2024 – Apr 2025*
 
 - Developed **end-to-end machine learning and NLP pipelines**, including data preprocessing, vectorization, and performance tuning.
@@ -92,12 +93,14 @@ I am an AI Developer specializing in Generative AI, Large Language Models, and N
 
 ---
 
+
 ## 📫 Contact
 
 - 💼 LinkedIn: [Pranjal Ambwani](https://www.linkedin.com/in/pranjal-ambwani-644066230)
 - 🌍 Website: [pranjalambwani.com](https://pranjalambwani.com)
 - 📧 Email: [pramb2003@gmail.com](mailto:pramb2003@gmail.com)
 - 📞 Phone: +91 74360 77888
+- 
 
 ---
 
