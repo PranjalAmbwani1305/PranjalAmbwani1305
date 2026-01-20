@@ -2,7 +2,7 @@
 <h3 align="center">AI & Generative AI Developer</h3>
 
 <p align="center">
-  <a href="https://v0-untitled-project-nu-two.vercel.app/#projects"><img src="https://img.shields.io/badge/Website-pranjalambwani.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://v0-untitled-project-nu-two.vercel.app"><img src="https://img.shields.io/badge/Website-pranjalambwani.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://github.com/PranjalAmbwani1305"><img src="https://img.shields.io/badge/GitHub-PranjalAmbwani1305-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:pramb2003@gmail.com"><img src="https://img.shields.io/badge/Email-pramb2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pranjal-ambwani-644066230"><img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Ambwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
