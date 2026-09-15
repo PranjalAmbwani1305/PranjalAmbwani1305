@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I am an AI Developer specializing in Generative AI, Large Language Models, and Natural Language Processing. Currently pursuing an M.Tech in Artificial Intelligence, I have hands-on experience building LLM-powered applications, Retrieval-Augmented Generation (RAG) systems, and end-to-end machine learning pipelines through internships and applied projects. My work includes document intelligence, vector-based semantic search, sales prediction, NLP automation, and interactive AI dashboards using Python, Hugging Face, Pinecone, Streamlit, and cloud platforms. I enjoy translating complex data and business requirements into scalable, real-world AI solutions and continuously improving model performance through experimentation and evaluation. I am open to collaborating on impactful AI/GenAI projects and professional opportunities.
+AI/ML Engineer with hands-on experience in building and deploying production-grade Conversational AI, RAG, and machine learning systems, including bilingual applications for government use. Skilled in developing AI/ML solutions that automate processes, improve operational efficiency, and address real-world business problems. Strong foundation in AI system development, backend engineering, and user-facing applications, with an emphasis on building reliable and practical AI solutions.
 
 ---
 
