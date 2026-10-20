@@ -93,7 +93,7 @@ AI/ML Engineer with hands-on experience in building and deploying production-gra
 - 💼 LinkedIn: [Pranjal Ambwani](https://www.linkedin.com/in/pranjal-ambwani-644066230)
 - 🌍 Website: [pranjalambwani.com](https://pranjalambwani.com)
 - 📧 Email: [pramb2003@gmail.com](mailto:pramb2003@gmail.com)
-- 📞 Phone: +91 74360 77888
+
 - 
 
 ---
